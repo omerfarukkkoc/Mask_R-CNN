@@ -1,7 +1,7 @@
 # Mask_R-CNN
 Mask_R-CNN
 
-
+![](https://github.com/omerfarukkkoc/Mask_R-CNN/blob/master/8.png)
 ![](https://github.com/omerfarukkkoc/Mask_R-CNN/blob/master/5.png)
 ![](https://github.com/omerfarukkkoc/Mask_R-CNN/blob/master/6.png)
 ![](https://github.com/omerfarukkkoc/Mask_R-CNN/blob/master/2.png)
